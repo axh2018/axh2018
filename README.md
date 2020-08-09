@@ -1,4 +1,17 @@
-### Hi there 👋
+### 👋 Hi there
+### 🌱 I’m currently learning cpp , java , Android ...
+< 氦, [👋](https://jaav.com.cn/) ! >
+ -------------------------------
+
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=axh2018&show_icons=true)
+
+
 
 <!--
 **axh2018/axh2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
